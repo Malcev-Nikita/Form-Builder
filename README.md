@@ -24,12 +24,12 @@
 ### Начало работы
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/your-username/form-builder.git
+https://github.com/Malcev-Nikita/Form-Builder.git
 ```
 
 2. Перейдите в каталог проекта:
 ```
-cd form-builder
+cd Form-Builder
 ```
 
 3. Установите зависимости:
